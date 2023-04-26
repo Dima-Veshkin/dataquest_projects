@@ -1,2 +1,2 @@
-# dataquest_projects
+# DataQuest Projects
 Notebooks of DataQuest projects
